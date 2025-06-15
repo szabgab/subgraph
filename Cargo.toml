@@ -5,7 +5,7 @@ edition = "2021"
 license = "MIT"
 description = "Subgraph is a CLI that instantly generates a GraphQL API around Mongo, SQL, and HTTP APIs."
 homepage = "https://www.thedevoyage.com"
-repository = "https://www.github.com/the-devoyage/subgraph"
+repository = "https://github.com/the-devoyage/subgraph"
 readme = "README.md"
 
 [lib]
